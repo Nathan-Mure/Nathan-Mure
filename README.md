@@ -1,5 +1,5 @@
 ## 🎩 A propos de moi:
-- Étudiant au Lycée Privée Le Marais Sainte-Thérèse. Ancien élève au Collège Privé Saint-Joseph. Titulaire du Diplôme National du Brevet. J'habite à Saint-Etienne.
+- Étudiant au Lycée Privé Le Marais Sainte-Thérèse en Bac Pro Système Numérique option C (RISC). Ancien élève au Collège Privé Saint-Joseph. Titulaire du Diplôme National du Brevet. J'habite à Saint-Étienne.
 
 ## ⚙️ Mes Technologies / Outils que j'utilise:
 - 💾 Proxmox, PufferPanel, Pterodactyl, SQL.
