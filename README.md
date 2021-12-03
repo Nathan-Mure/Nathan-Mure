@@ -11,5 +11,6 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/nathan-mure/" target="_blank">
     <img align="center" src="/images/linkedin.png"></img>
-  </a></a></p>
+  </a>
+  </a></p>
 <p align="center"><img align="right" src="/images/32b3939f15616877ed7184cfecbcede2-32bits-24.png"></img></p> 
